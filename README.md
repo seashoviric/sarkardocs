@@ -2,7 +2,9 @@
   <strong>Welcome to sarkardocs's profile!</strong>
 </p>
 
-![welcome](./welcome.gif)
+<p align="center">
+  <img src="./welcome.gif" alt="welcome" style="border-radius: 50%; width: 300px; height: 300px;">
+</p>
 
 <br>
 
