@@ -39,6 +39,9 @@
 </div>
 <br>
 
+<hr style="border: 1px solid black; width: 100%; margin: 0;">
+<br>
+
 <p>
   <strong>Programming Languages!</strong>
 </p>
