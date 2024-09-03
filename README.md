@@ -32,8 +32,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/sarkardocs?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet) <br> ![Followers](https://img.shields.io/github/followers/sarkardocs?style=social)
 
 </div>
 <br>
