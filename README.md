@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="./jelly.png" alt="welcome">
+  <img src="./fire.png" alt="welcome" width="200">
 </p>
-<hr style="border: 1px solid black; width: 100%; margin: 0;">
+<hr style="border: 1px solid black; width: 80%; margin: 0;">
+
 <br>
 
 <p align="center">
