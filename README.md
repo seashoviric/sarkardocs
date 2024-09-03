@@ -1,24 +1,24 @@
 # Welcome to My GitHub Profile!
 
-![Welcome](https://github.com/sarkardocs/sarkardocs/blob/main/welcome.gif?raw=true)
+![Welcome](https://github.com/home-runner/welcome.gif?raw=true)
 
 ## 📊 GitHub Stats
 
 ### GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&theme=dark&hide_border=true&background=ffffff&ring=000000&fire=FF8C00&currStreakNum=000000&sideNums=000000&currStreakLabel=FF8C00&sideLabels=000000)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=ffffff)
-
-### Profile Views & Followers Count
-
-![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet) ![Followers](https://img.shields.io/github/followers/sarkardocs?style=social)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&theme=dark&hide_border=true&background=ffffff&ring=00aaff&fire=FF8C00&currStreakNum=000000&sideNums=000000&currStreakLabel=00aaff&sideLabels=000000)
 
 ### Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkardocs&layout=compact&theme=dark&hide_border=true&bg_color=ffffff)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&hide_title=true&theme=light&hide_border=true&bg_color=ffffff&icon_color=00aaff&text_color=000000)
+
+### Profile Views & Followers Count
+
+![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet) ![Followers](https://img.shields.io/github/followers/sarkardocs?style=social)
 
 ## 🛠️ Programming Languages & Tools
 
