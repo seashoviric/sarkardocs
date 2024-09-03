@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./welcome.gif" alt="welcome" style="width: 300px; height: 150px; border-radius: 50%;">
+  <img src="./welcome.gif" alt="welcome" style="width: 300px; height: 150px; border-radius: 0%;">
 </p>
 <br>
 
