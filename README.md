@@ -20,7 +20,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkardocs&layout=compact&theme=dark&hide_border=true)
 
-## 🛠️ Programming Languages & Tools
+## 🛠️ Programming Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -35,7 +35,7 @@
 
 ## 🌐 Connect with Me
 
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) [Facebook Profile](https://facebook.com/subashbaniyaa)  
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) (https://facebook.com/subashbaniyaa)  
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [Instagram Profile](https://instagram.com/subashbaniyaa)  
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=facebook-messenger&logoColor=white) [Messenger Profile](https://m.me/subashbaniyaa)  
 
