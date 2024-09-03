@@ -22,7 +22,7 @@
 
 <br>
 <p align="center">
-  <strong>Most used languages!</strong>
+  <strong>Top languages!</strong>
 </p>
 
 <div align="center">
@@ -52,7 +52,7 @@
 <br>
 
 <p>
-  <strong>Programming Languages!</strong>
+  <strong>Programming languages and tools!</strong>
 </p>
 
 <p>
