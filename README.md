@@ -5,6 +5,7 @@
 <p align="center">
   <img src="./welcome.gif" alt="welcome" style="width: 300px; height: 150px; border-radius: 50%;">
 </p>
+<hr style="border: 1px solid black; width: 100%; margin: 0;">
 <br>
 
 <p align="center">
