@@ -27,13 +27,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&hide_title=true&theme=light&hide_border=true&bg_color=ffffff&icon_color=00aaff&text_color=000000)
 
-<br>
-
-<p>
-  <strong>¿</strong>
-</p>
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet) ![Followers](https://img.shields.io/github/followers/sarkardocs?style=social)
 
 <br>
@@ -60,4 +53,4 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/subashbaniyaa)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/subashbaniyaa)  
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=facebook-messenger&logoColor=white)](https://m.me/subashbaniyaa) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sarkardocs.vercel.app)  
-[![Website (https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashbaniya.info.np)
+[![Website(https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashbaniya.info.np)
