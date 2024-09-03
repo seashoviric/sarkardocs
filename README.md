@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hi, nega!</strong>
+  <strong>Hi 👋 I am Subash!</strong>
 </p>
 
 <p align="center">
