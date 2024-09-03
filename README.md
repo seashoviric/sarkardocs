@@ -4,9 +4,12 @@
 
 ![welcome](./welcome.gif)
 
-## 📊 GitHub Stats
+<p align="center">
+  <strong>GitHub Stats!</strong>
+</p>
 
-### GitHub Streak
+
+## Current streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&theme=dark&hide_border=true&background=ffffff&ring=00aaff&fire=FF8C00&currStreakNum=000000&sideNums=000000&currStreakLabel=00aaff&sideLabels=000000)
 
