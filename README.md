@@ -1,5 +1,7 @@
 <p align="center">
-  <strong>Hi 👋 I am Subash!</strong>
+  <strong>Hi 👋 I'm Subash!
+
+I am a passionate developer immersed in the world of frontend development, UI/UX design, and web design. I love crafting intuitive and visually appealing user experiences while pushing the boundaries of what's possible on the web </strong>
 </p>
 
 <p align="center">
