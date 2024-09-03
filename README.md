@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Welcome](https://github.com/home-runner/welcome.gif?raw=true)
+![Welcome](https://raw.githubusercontent.com/home-runner/home-runner/main/welcome.gif)
 
 ## 📊 GitHub Stats
 
