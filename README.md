@@ -1,9 +1,9 @@
 <p align="center">
-  <strong>Welcome to sarkardocs's profile!</strong>
+  <strong>Hi!</strong>
 </p>
 
 <p align="center">
-  <img src="./hi.png" alt="welcome" style="width: 100px;">
+  <img src="./hi.png" alt="welcome" style="width: 80px;">
 </p>
 <hr style="border: 1px solid black; width: 100%; margin: 0;">
 
