@@ -30,9 +30,10 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&hide_title=true&theme=light&hide_border=false&bg_color=ffffff&icon_color=00aaff&text_color=000000&border_color=000000)
+
 <br>
+
 <hr style="border: 1px solid black; width: 100%; margin: 0;">
-<br>
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet)
