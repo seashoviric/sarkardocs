@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./eagle.png" alt="welcome" style="width: 300px; height: 150px; border-radius: 50%;">
+  <img src="./eagle.png" alt="welcome">
 </p>
 <hr style="border: 1px solid black; width: 100%; margin: 0;">
 <br>
