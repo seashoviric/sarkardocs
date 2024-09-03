@@ -70,4 +70,8 @@
 
 <br> 
 
-[![APIl](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sarkardocs.vercel.app)  [![Subash](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashbaniya.info.np)
+<p>
+  <strong>🔗 Websites!</strong>
+</p>
+
+[![Vercell](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sarkardocs.vercel.app)  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashbaniya.info.np)
