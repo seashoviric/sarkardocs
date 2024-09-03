@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>A passionate developer immersed in the world of frontend development, UI/UX design, and web design. I love crafting intuitive and visually appealing user experiences while pushing the boundaries of what's possible on the web </strong>
+  <strong>A passionate developer immersed in frontend development, UI/UX design, and web design. I love crafting intuitive and visually appealing user experiences while pushing the boundaries of what's possible on the web </strong>
 </p>
 
 <hr style="border: 1px solid black; width: 100%; margin: 0;">
