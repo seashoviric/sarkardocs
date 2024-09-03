@@ -39,7 +39,7 @@
 </div>
 <br>
 
-<p align="center">
+<p>
   <strong>Programming Languages!</strong>
 </p>
 
@@ -55,7 +55,7 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 <br>
-<p align="center">
+<p>
   <strong>Connect with me!</strong>
 </p>
 
