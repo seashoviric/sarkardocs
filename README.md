@@ -12,19 +12,35 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&theme=dark&hide_border=true&background=ffffff&ring=00aaff&fire=FF8C00&currStreakNum=000000&sideNums=000000&currStreakLabel=00aaff&sideLabels=000000)
 
-### Most Used Languages
+<br>
+<p align="center">
+  <strong>Most used languages!</strong>
+</p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkardocs&layout=compact&theme=dark&hide_border=true&bg_color=ffffff)
 
-### GitHub Stats
+<br>
+
+<p align="center">
+  <strong>GitHub Stats!</strong>
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&hide_title=true&theme=light&hide_border=true&bg_color=ffffff&icon_color=00aaff&text_color=000000)
 
-### Profile Views & Followers Count
+<br>
+
+<p align="center">
+  <strong>Views & Counts!</strong>
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet) ![Followers](https://img.shields.io/github/followers/sarkardocs?style=social)
 
-## 🛠️ Programming Languages & Tools
+<br>
+
+<p align="center">
+  <strong>Programming Languages!</strong>
+</p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
