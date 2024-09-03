@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./hehe.png" alt="welcome">
+  <img src="./jelly.png" alt="welcome">
 </p>
 <hr style="border: 1px solid black; width: 100%; margin: 0;">
 <br>
