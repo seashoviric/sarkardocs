@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hi!</strong>
+  <strong>Hi, nega!</strong>
 </p>
 
 <p align="center">
