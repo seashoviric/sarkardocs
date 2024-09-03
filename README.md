@@ -17,8 +17,11 @@
   <strong>Most used languages!</strong>
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkardocs&layout=compact&theme=dark&hide_border=false&bg_color=ffffff&border_color=000000)
+<div align="center">
+  
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkardocs&layout=compact&theme=dark&hide_border=false&bg_color=ffffff&border_color=000000)
 
+</div>
 <br>
 
 <p align="center">
