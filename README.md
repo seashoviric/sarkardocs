@@ -1,5 +1,5 @@
 <p align="center">
-  # Welcome to My GitHub Profile!
+  <strong>Welcome to My GitHub Profile!</strong>
 </p>
 
 ![welcome](./welcome.gif)
