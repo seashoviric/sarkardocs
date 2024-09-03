@@ -30,7 +30,7 @@
 <br>
 
 <p>
-  <strong>Views & Counts!</strong>
+  <strong>¿</strong>
 </p>
 
 
@@ -53,13 +53,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-## 🌐 Connect with Me
+<br>
+<p align="center">
+  <strong>Connect with me!</strong>
+</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/subashbaniyaa)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/subashbaniyaa)  
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=facebook-messenger&logoColor=white)](https://m.me/subashbaniyaa)  
-
-## 🌍 Websites
-
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sarkardocs.vercel.app)  
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashbaniya.info.np)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/subashbaniyaa)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/subashbaniyaa)  
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=facebook-messenger&logoColor=white)](https://m.me/subashbaniyaa) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sarkardocs.vercel.app)  
+[![Website (https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashbaniya.info.np)
