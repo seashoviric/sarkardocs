@@ -29,7 +29,7 @@
 
 <br>
 
-<p align="center">
+<p>
   <strong>Views & Counts!</strong>
 </p>
 
