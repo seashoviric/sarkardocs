@@ -17,7 +17,7 @@
   <strong>Most used languages!</strong>
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkardocs&layout=compact&theme=dark&hide_border=true&bg_color=ffffff)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkardocs&layout=compact&theme=dark&hide_border=false&bg_color=ffffff&border_color=000000)
 
 <br>
 
@@ -25,7 +25,7 @@
   <strong>GitHub Stats!</strong>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&hide_title=true&theme=light&hide_border=true&bg_color=ffffff&icon_color=00aaff&text_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&hide_title=true&theme=light&hide_border=false&bg_color=ffffff&icon_color=00aaff&text_color=000000&border_color=000000)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet) ![Followers](https://img.shields.io/github/followers/sarkardocs?style=social)
 
