@@ -1,6 +1,4 @@
-<p align="center">
-  <strong>नमस्ते 👋 I am Subash!</strong>
-</p>
+### नमस्ते 👋 I am Subash!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
