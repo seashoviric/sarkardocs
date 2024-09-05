@@ -16,6 +16,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/sarkardocs?style=social)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarkardocs" alt="sarkardocs" /></a> </p>
+
 </div>
 
 <hr style="border: 1px solid black; width: 100%; margin: 0;">
