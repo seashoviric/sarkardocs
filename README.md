@@ -14,10 +14,7 @@
 
 <br>
 
-<p align="center">
-  <strong>Current Streak!</strong>
-</p>
-src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
 <br>
 <p align="center">
