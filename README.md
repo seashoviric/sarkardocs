@@ -60,9 +60,15 @@
   <strong>Connect with me!</strong>
 </p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/subashbaniyaa)  [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=facebook-messenger&logoColor=white)](https://m.me/subashbaniyaa)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/subashbaniyaa)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/0000000000)
-
+<p align="left">
+<a href="https://dev.to/sarkardocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarkardocs" height="30" width="40" /></a>
+<a href="https://twitter.com/sarkardocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarkardocs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarkardocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarkardocs" height="30" width="40" /></a>
+<a href="https://fb.com/sarkardocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarkardocs" height="30" width="40" /></a>
+<a href="https://instagram.com/sarkardocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarkardocs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sarkardocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sarkardocs" height="30" width="40" /></a>
+<a href="/sarkardocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sarkardocs" height="30" width="40" /></a>
+</p>
 <br> 
 
 <p>
