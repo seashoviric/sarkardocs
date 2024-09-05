@@ -20,7 +20,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkardocs&show_icons=true&locale=en&layout=compact" alt="sarkardocs" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkardocs&show_icons=true&locale=en&layout=compact" alt="sarkardocs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&locale=en" alt="sarkardocs" /></p>
 
 <br>
 
