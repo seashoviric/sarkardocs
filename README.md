@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Namaste 👋 I'm Subash!</strong>
+  <strong>नमस्ते 👋 I'm Subash!</strong>
 </p>
 
 <hr style="border: 1px solid black; width: 100%; margin: 0;">
