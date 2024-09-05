@@ -1,4 +1,4 @@
-### ‎  ‎‎       नमस्ते 👋 I am Subash!
+### Hi 👋 नमस्ते
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
