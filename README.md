@@ -1,10 +1,6 @@
 <p align="center">
-  <strong>नमस्ते 👋 I'm Subash!</strong>
+  <strong>नमस्ते 👋 I am Subash!</strong>
 </p>
-
-<hr style="border: 1px solid black; width: 100%; margin: 0;">
-
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
