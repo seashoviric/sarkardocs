@@ -17,14 +17,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkardocs&show_icons=true&locale=en&layout=compact" alt="sarkardocs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkardocs&show_icons=true&locale=en&layout=compact" alt="sarkardocs" /></p>
 <br>
 
-<p align="center">
-  <strong>GitHub Stats!</strong>
-</p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&hide_title=true&theme=light&hide_border=false&bg_color=ffffff&icon_color=00aaff&text_color=000000&border_color=000000)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkardocs&show_icons=true&locale=en&layout=compact" alt="sarkardocs" /></p>
 
 <br>
 
