@@ -17,8 +17,7 @@
 <p align="center">
   <strong>Current Streak!</strong>
 </p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&theme=dark&hide_border=false&background=ffffff&ring=FF8C00&fire=FF8C00&currStreakNum=000000&sideNums=000000&currStreakLabel=FF8C00&sideLabels=000000&border=000000)
+src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
 <br>
 <p align="center">
