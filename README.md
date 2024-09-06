@@ -10,7 +10,6 @@
 
 <br>
 
-<hr style="border: 1px solid black; width: 100%; margin: 0;">
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=sarkardocs&color=blueviolet)
@@ -20,7 +19,6 @@
 
 </div>
 
-<hr style="border: 1px solid black; width: 100%; margin: 0;">
 <br>
 
 <p>
