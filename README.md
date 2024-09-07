@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://fb.com/sarkardocs" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarkardocs" height="30" width="40" /></a>
-  <a href="https://instagram.com/sarkardocs" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarkardocs" height="30" width="40" /></a>
   <a href="https://sarkardocs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
-  <a href="https://subashbaniya.info.np" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://instagram.com/sarkardocs" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarkardocs" height="30" width="40" /></a>
+    <a href="https://subashbaniya.info.np" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
