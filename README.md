@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 24px; font-weight: bold;">Hi 👋 नमस्ते</span>
+  <span style="font-size: 60px; font-weight: bold;">Hi 👋 नमस्ते</span>
 </p>
 
 
