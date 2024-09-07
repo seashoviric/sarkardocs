@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hi 👋 नमस्ते</strong>
+  <strong>👋 नमस्ते</strong>
 </p>
 
 
@@ -7,7 +7,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&locale=en" alt="sarkardocs" /></p>
-
+<br>
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkardocs&show_icons=true&locale=en&layout=compact" alt="sarkardocs" />
 </div>
