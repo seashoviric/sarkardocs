@@ -1,16 +1,16 @@
 <p align="center">
-  <span style="font-size: 60px; font-weight: bold;">Hi 👋 नमस्ते</span>
+  <strong>Hi 👋 नमस्ते</strong>
 </p>
 
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&locale=en" alt="sarkardocs" /></p>
+
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkardocs&show_icons=true&locale=en&layout=compact" alt="sarkardocs" />
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&locale=en" alt="sarkardocs" /></p>
 
 <br>
 
