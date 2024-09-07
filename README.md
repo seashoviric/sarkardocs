@@ -1,15 +1,13 @@
 <p align="center">
-  ### Hi 👋 नमस्ते
+  <span style="font-size: 24px; font-weight: bold;">Hi 👋 नमस्ते</span>
 </p>
 
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
-<p align="center">
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkardocs&show_icons=true&locale=en&layout=compact" alt="sarkardocs" />
-  </p>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkardocs&show_icons=true&locale=en" alt="sarkardocs" /></p>
