@@ -1,4 +1,8 @@
-### Hi 👋 नमस्ते
+<p align="center">
+  ### Hi 👋 नमस्ते
+</p>
+
+
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkardocs&" alt="sarkardocs" /></p>
 
