@@ -29,9 +29,10 @@
   <strong>Programming languages and tools!</strong>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,figma,java,linux,react,nextjs,ts,nodejs,express,python)](https://skillicons.dev)<br>
-<p>
-  <strong>Connect with me!</strong>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,figma,java,linux,react,nextjs,ts,nodejs,express,python" width="48" height="48">
+</a>
+<strong>Connect with me!</strong>
 
 <p align="left">
     <a href="https://sarkardocs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
