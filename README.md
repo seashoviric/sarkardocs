@@ -29,9 +29,10 @@
   <strong>Programming languages and tools!</strong>
 </p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,figma,java,linux,react,nextjs,ts,nodejs,express,python" width="100" height="100">
+<a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=js,html,css,figma,java,linux,react,nextjs,ts,nodejs,express,python" style="width: 150px; height: 150px;">
 </a>
+
 <strong>Connect with me!</strong>
 
 <p align="left">
