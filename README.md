@@ -30,7 +30,7 @@
 </p>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,figma,java,linux,react,nextjs,ts,nodejs,express,python" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=js,html,css,figma,java,linux,react,nextjs,ts,nodejs,express,python" width="100" height="100">
 </a>
 <strong>Connect with me!</strong>
 
