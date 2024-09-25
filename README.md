@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>👋 नमस्ते</strong>
+  <strong>🙏 नमस्ते 👋</strong>
 </p>
 
 
