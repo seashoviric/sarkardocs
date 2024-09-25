@@ -43,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=vue" width="50px" />
   <img src="https://skillicons.dev/icons?i=vite" width="50px" />
   <img src="https://skillicons.dev/icons?i=express" width="50px" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50px" />
+<img src="https://skillicons.dev/icons?i=unity" width="50px" />
 </p>
 
 <strong>Connect with me!</strong>
