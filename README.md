@@ -41,6 +41,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" width="50px" />
   <img src="https://skillicons.dev/icons?i=python" width="50px" />
   <img src="https://skillicons.dev/icons?i=vue" width="50px" />
+  <img src="https://skillicons.dev/icons?i=vite" width="50px" />
+  <img src="https://skillicons.dev/icons?i=express" width="50px" />
 </p>
 
 <strong>Connect with me!</strong>
