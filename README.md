@@ -1,8 +1,3 @@
-<p align="center">
-  <strong>🙏</strong>
-</p>
-
-
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seashoviric&" alt="seashoviric" /></p>
 
