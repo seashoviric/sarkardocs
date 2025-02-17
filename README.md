@@ -1,5 +1,5 @@
 <br>
-<p><img align="center" src="web.png" alt="Web Image" width="200" /></p>
+<p><img align="center" src="web.png" /></p>
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashbaniyaa&" alt="subashbaniyaa" /></p>
