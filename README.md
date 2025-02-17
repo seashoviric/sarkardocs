@@ -1,4 +1,5 @@
-<img src="web.png" alt="Web Image" style="display: block; margin: 0 auto; width: 200px; height: auto;">
+<br>
+<p><img align="center" src="web.png" alt="Web Image" width="200" /></p>
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashbaniyaa&" alt="subashbaniyaa" /></p>
