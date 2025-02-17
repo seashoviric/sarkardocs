@@ -1,7 +1,6 @@
 <div style="text-align: center;">
-  <img src="web.png" alt="Web Image" style="max-width: 100%; height: auto;">
+  <img src="web.png" alt="Web Image" style="width: 200px; height: auto;">
 </div>
-
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashbaniyaa&" alt="subashbaniyaa" /></p>
 
