@@ -1,20 +1,20 @@
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seashoviric&" alt="seashoviric" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashbaniyaa&" alt="subashbaniyaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seashoviric&show_icons=true&locale=en" alt="sarkardocs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subashbaniyaa&show_icons=true&locale=en" alt="subashbaniyaa" /></p>
 <br>
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seashoviric&show_icons=true&locale=en&layout=compact" alt="sarkardocs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subashbaniyaa&show_icons=true&locale=en&layout=compact" alt="subashbaniyaa" />
 </div>
 
 <br>
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=seashoviric&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/seashoviric?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=subashbaniyaa&color=blueviolet)  
+![Followers](https://img.shields.io/github/followers/subashbaniyaa?style=social)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seashoviric" alt="seashoviric" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subashbaniyaa" alt="subashbaniyaa" /></a> </p>
 
 </div>
 
@@ -39,5 +39,5 @@
   <img src="https://skillicons.dev/icons?i=vite" width="50px" />
   <img src="https://skillicons.dev/icons?i=express" width="50px" />
   <img src="https://skillicons.dev/icons?i=linux" width="50px" />
-<img src="https://skillicons.dev/icons?i=unity" width="50px" />
+  <img src="https://skillicons.dev/icons?i=unity" width="50px" />
 </p>
