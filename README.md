@@ -11,8 +11,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=subashbaniyaa&color=blueviolet)  
-![Followers](https://img.shields.io/github/followers/subashbaniyaa?style=social)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subashbaniyaa" alt="subashbaniyaa" /></a> </p>
 
